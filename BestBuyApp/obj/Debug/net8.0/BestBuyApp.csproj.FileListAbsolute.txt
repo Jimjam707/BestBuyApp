@@ -48,3 +48,4 @@ C:\Users\Jimi\OneDrive\Desktop\repos\BestBuyApp\BestBuyApp\obj\Debug\net8.0\refi
 C:\Users\Jimi\OneDrive\Desktop\repos\BestBuyApp\BestBuyApp\obj\Debug\net8.0\BestBuyApp.pdb
 C:\Users\Jimi\OneDrive\Desktop\repos\BestBuyApp\BestBuyApp\obj\Debug\net8.0\BestBuyApp.genruntimeconfig.cache
 C:\Users\Jimi\OneDrive\Desktop\repos\BestBuyApp\BestBuyApp\obj\Debug\net8.0\ref\BestBuyApp.dll
+C:\Users\Jimi\OneDrive\Desktop\repos\BestBuyApp\BestBuyApp\obj\Debug\net8.0\BestBuyApp.sourcelink.json

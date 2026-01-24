@@ -1,6 +1,7 @@
 using System.Data;
 using BestBuyApp.Models;
 using Dapper;
+using MySql.Data.MySqlClient;
 
 namespace BestBuyApp.Data;
 
@@ -25,7 +26,7 @@ public class ProductRepository : IProductRepository
 
     public void UpdateProduct(Product product)
     {
-        _connection.Execute("UPDATE products SET NAME = @name, PRICE = @price, WHERE ProductID = @id",
+        _connection.Execute("UPDATE products SET NAME = @name, PRICE = @price WHERE ProductID = @id",
         new { name = product.Name, price = product.Price, id = product.ProductID });
     }
 
